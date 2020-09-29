@@ -1,0 +1,5 @@
+commit de21f6abbebbb0ab1de835125a93756b4055332d
+Author: Emmett Lalish <elalish@google.com>
+Date:   Mon Sep 28 10:05:57 2020 -0700
+
+    show AR button after loading (#1567)
